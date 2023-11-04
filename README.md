@@ -2,9 +2,9 @@
 
 ## Jenkins
 
-This example provides a jenkins setup of jenkins controller and agent using docker compose.
+This example provides a setup of jenkins controller and jenkins agent using docker compose with ssh authentification.
 
-To run this example go to jenkins folder `cd jenkins` and run docker compose
+To run this example go to jenkins folder `cd jenkins` and run the following command
 ```
 docker compose up -d
 ```
